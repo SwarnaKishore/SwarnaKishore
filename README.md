@@ -2,9 +2,9 @@
 
 ### Software Engineer | Full-Stack Developer | Building AI-Native Applications
 
-I'm a Software Engineer building enterprise-scale web applications and cloud-native solutions with Angular, React, .NET Core, REST APIs and AWS Web services.
+I'm a Software Engineer building enterprise-scale web applications and cloud-native solutions.
 
-My recent focus is on combining enterprise software engineering with AI-native development to create practical solutions that improve productivity, automation, and business outcomes.
+My recent focus is on combining enterprise software engineering with AI-assisted development to create practical solutions that improve productivity, automation, and business outcomes.
 
 ---
 
