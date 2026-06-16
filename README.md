@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Swarna Avvaru 👋
 
-<!--
-**SwarnaKishore/SwarnaKishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full-Stack Developer | Building AI-Native Applications
 
-Here are some ideas to get you started:
+I'm a Software Engineer building enterprise-scale web applications and cloud-native solutions with Angular, React, .NET Core, REST APIs and AWS Web services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My recent focus is on combining enterprise software engineering with AI-native development to create practical solutions that improve productivity, automation, and business outcomes.
+
+---
+
+## 🚀 Current Focus
+
+* Building AI-powered applications and developer tools
+* Exploring AI agents and orchestration patterns
+* Learning Claude Code and AI-assisted software development
+* Expanding expertise in cloud-native architectures and intelligent automation
+
+---
+
+## 🌟 Featured Project
+
+### AI Incident Copilot
+
+AI-powered incident analysis platform that helps engineers analyze production incidents using Claude.
+
+🔗 Demo: https://ai-incident-copilot.vercel.app
+
+🔗 Repository: https://github.com/SwarnaKishore/ai-incident-copilot
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [(Swarna Avvaru)](https://www.linkedin.com/in/swarnaavvaru/)
+
+---
+
+*"Passionate about building scalable, reliable software and leveraging AI to create practical solutions that deliver measurable value."*
