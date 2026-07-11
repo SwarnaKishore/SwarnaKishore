@@ -15,19 +15,6 @@ My recent focus is on combining enterprise software engineering with AI-assisted
 * Learning Claude Code and AI-assisted software development
 * Expanding expertise in cloud-native architectures and intelligent automation
 
----
-
-## 🌟 Featured Project
-
-### AI Incident Copilot
-
-AI-powered incident analysis platform that helps engineers analyze production incidents using Claude.
-
-🔗 Demo: https://ai-incident-copilot.vercel.app
-
-🔗 Repository: https://github.com/SwarnaKishore/ai-incident-copilot
-
----
 
 ## 📫 Connect With Me
 
