@@ -12,7 +12,6 @@ My recent focus is on combining enterprise software engineering with AI-assisted
 
 * Building AI-powered applications and developer tools
 * Exploring AI agents and orchestration patterns
-* Learning Claude Code and AI-assisted software development
 * Expanding expertise in cloud-native architectures and intelligent automation
 
 
